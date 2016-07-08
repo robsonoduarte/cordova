@@ -1,4 +1,4 @@
-Simple Web App ( Responsible Design )
+Simple Web App ( Responsive Design )
 =====================================
 
 
