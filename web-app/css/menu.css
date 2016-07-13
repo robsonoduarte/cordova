@@ -1,0 +1,12 @@
+#option-cakes:checked ~ #menu-cakes,
+#option-drinks:checked ~ #menu-drinks{
+	display: none;
+}
+
+input[type=radio] {
+	display: none;
+}
+
+.menu{
+	width: 100%;
+}
