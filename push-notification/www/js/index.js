@@ -37,11 +37,11 @@ var app = {
       	  // window.plugins.OneSignal.setLogLevel({logLevel: 4, visualLevel: 4});
 
       	  var notificationOpenedCallback = function(jsonData) {
-      	    alert("ok quissassa !");
+      	     alert("you have new message");
       	  };
 
       	  window.plugins.OneSignal.init("b5e7a9a4-35f2-4abc-a5c8-5c8125c386f0",
-      	                                 {googleProjectNumber: "632548614043 "},
+      	                                 {googleProjectNumber: "632548614043"},
       	                                 notificationOpenedCallback);
 
       	  // Show an alert box if a notification comes in when the user is in your app.
