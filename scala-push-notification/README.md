@@ -1,5 +1,3 @@
 Scala Push Notification
 ---------------------------------
-Simple example how send one push notification to the devide
-
-**readme in construction**
+In this simple example we use the (OneSignal)[https://onesignal.com/] Cross Platform Push Notification Delivery.
