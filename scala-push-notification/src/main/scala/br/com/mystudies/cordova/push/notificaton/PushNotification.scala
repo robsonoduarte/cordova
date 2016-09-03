@@ -4,7 +4,7 @@ import scalaj.http.Http
 
 object PushNotification extends App {
 
-  var json = """{"app_id": "your_id","included_segments": ["All"],"data": {"foo": "bar"},"contents": {"en": "English Message"}}"""
+  val json = """{"app_id": "your_id","included_segments": ["All"],"data": {"foo": "bar"},"contents": {"en": "English Message"}}"""
 
   val response = Http("https://onesignal.com/api/v1/notifications")
     .postData(json)
@@ -12,9 +12,8 @@ object PushNotification extends App {
     .header("Authorization", "Basic your_key")
     .asString
 
-  println(response.code)
-  println(response.body)
 
+  println(response.body)
 
 }
 
