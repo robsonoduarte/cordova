@@ -5,9 +5,9 @@ For receive the notification we used the hybrid mobile App developed with [Apach
 For more information how you can use the OneSignal API watch [this video](https://www.youtube.com/watch?v=_jexwbrSFpY&feature=youtu.be)
 
 
-*To Post the message in API using the Scala we use the [scalaj-http](https://github.com/scalaj/scalaj-http)
+> The[scalaj-http](https://github.com/scalaj/scalaj-http) was used to Post the message in OneSignal API.
 
-*Run the example*
+**Run the example**
 
 
 
