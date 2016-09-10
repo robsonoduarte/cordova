@@ -9,13 +9,11 @@ For more information how you can use the OneSignal API watch [this video](https:
 
 **Run the example**
 
-1. Change the App ID and Rest API Key
-
-Take your App Setting in OneSignal:
+**1** Get your App Settings in OneSignal:
 
 ![capturar](https://cloud.githubusercontent.com/assets/797845/18406151/be6ae446-76cf-11e6-95d2-bcf8f10eeba0.PNG)
 
-And Change the values in Scala program:
+**2** Change the values in Scala program:
 
 [img]
 
