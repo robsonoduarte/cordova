@@ -18,10 +18,11 @@ git clone https://github.com/robsonoduarte/learn-cordova.git
 ```
 
 **3** Change the values in Scala program:
+
 ![capturar](https://cloud.githubusercontent.com/assets/797845/18406358/296196da-76d2-11e6-8835-6444ed0356e4.PNG)
 
-**4** In the terminal:
 
+**4** In the terminal:
 ```
 cd learn-cordova/scala-push-notification/
 sbt
