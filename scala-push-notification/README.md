@@ -15,7 +15,7 @@ For more information how you can use the OneSignal API watch [this video](https:
 
 **2** Change the values in Scala program:
 
-[img]
+![capturar](https://cloud.githubusercontent.com/assets/797845/18406358/296196da-76d2-11e6-8835-6444ed0356e4.PNG)
 
 
 
