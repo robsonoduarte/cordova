@@ -2,7 +2,7 @@ Push Notification using Scala
 ---------------------------------
 In this simple example the [OneSignal](https://onesignal.com/) was used as the platform push notification delivery.
 [Here](https://github.com/robsonoduarte/learn-cordova/tree/master/push-notification) is the hybrid mobile App developed with [Apache Cordova](http://cordova.apache.org/) to test the messages received.
-For more information how you can use the OneSignal API, watch [this video](https://www.youtube.com/watch?v=_jexwbrSFpY&feature=youtu.be).
+For more information how you can use the OneSignal API watch [this video](https://www.youtube.com/watch?v=_jexwbrSFpY&feature=youtu.be).
 
 
 
