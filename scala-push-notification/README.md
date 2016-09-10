@@ -6,7 +6,7 @@ For more information how you can use the OneSignal API watch [this video](https:
 
 
 
-> The [scalaj-http](https://github.com/scalaj/scalaj-http) was used to Post the message in OneSignal API.
+> The [scalaj-http](https://github.com/scalaj/scalaj-http) was used to POST the message in OneSignal API.
 
 ###**Run the example**
 
